@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import NavButtons from './navButtons';
 import Heading from './heading';
 import SearchBar from './searchBar';
-import Script from 'react-load-script';
+
 
 
 
@@ -29,7 +29,7 @@ export default class MainView extends Component {
                         </div>
                     </div>
             </div> 
-             
+            
         </div>
 
      
